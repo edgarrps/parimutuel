@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Header />
-      <div className="pt-10 bg-black">
+      <div className="pt-10 bg-black h-screen">
         <p className="text-center text-8xl font-bold text-white">Parimutuel Project - New way to engage to crypto parimutuel</p>
       </div>
       <Footer />
